@@ -54,7 +54,7 @@ public class Processor {
             output.println();
             output.println("<html>");
             output.println("<head><title>PRIME</title></head>");
-            output.println("<body><p>The sum of the prime numbers from 1 to 100000: " + primeSum() + "</p></body>");
+            output.println("<body><p>The sum of the prime numbers from 1 to 200000: " + primeSum() + "</p></body>");
             output.println("</html>");
         }
 
